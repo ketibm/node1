@@ -19,7 +19,6 @@ function calculate(operation, a, b) {
   } else {
     return "invalid input";
   }
-  //   else if (operation == "-") return a - b;
 }
 console.log(calculate("/", 4, 5));
 
